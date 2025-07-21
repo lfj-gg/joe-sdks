@@ -19,7 +19,8 @@ export const EXCHANGE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const MASTERCHEF_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -37,7 +38,8 @@ export const MASTERCHEF_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const DEXCANDLES_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -55,7 +57,8 @@ export const DEXCANDLES_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const BAR_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -72,7 +75,8 @@ export const BAR_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const LENDING_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -90,7 +94,8 @@ export const LENDING_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const ROCKET_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -108,7 +113,8 @@ export const ROCKET_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const SJOE_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -127,7 +133,8 @@ export const SJOE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const MONEY_MAKER_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -145,7 +152,8 @@ export const MONEY_MAKER_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const VEJOE_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -163,7 +171,8 @@ export const VEJOE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const BOOSTED_MASTERCHEF_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -181,7 +190,8 @@ export const BOOSTED_MASTERCHEF_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const NFT_CONTRACTS_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -199,7 +209,8 @@ export const NFT_CONTRACTS_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const JOEPEG_MARKPLACE_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -217,7 +228,8 @@ export const JOEPEG_MARKPLACE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const FEE_COLLECTOR_SUBGRAPH: { [chainId in ChainId]: string } = {
@@ -235,5 +247,6 @@ export const FEE_COLLECTOR_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }

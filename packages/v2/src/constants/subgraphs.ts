@@ -19,7 +19,8 @@ export const DEX_V2_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }
 
 export const DEXCANDLES_SUBGRAPH_V2: { [chainId in ChainId]: string } = {
@@ -42,5 +43,6 @@ export const DEXCANDLES_SUBGRAPH_V2: { [chainId in ChainId]: string } = {
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
   [ChainId.SOLANA]: '',
-  [ChainId.SONIC]: ''
+  [ChainId.SONIC]: '',
+  [ChainId.SONIC_TESTNET]: ''
 }

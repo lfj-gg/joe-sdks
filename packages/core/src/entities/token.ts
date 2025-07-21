@@ -167,6 +167,13 @@ export const WNATIVE = {
     18,
     'wS',
     'Wrapped Sonic'
+  ),
+  [ChainId.SONIC_TESTNET]: new Token(
+    ChainId.SONIC_TESTNET,
+    '0xf66a627199a85c41DcE5Ec7f900177D19d99F7a7',
+    18,
+    'WHYPE',
+    'Wrapped HYPE'
   )
 }
 export const WAVAX = WNATIVE
