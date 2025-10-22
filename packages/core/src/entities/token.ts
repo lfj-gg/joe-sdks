@@ -167,6 +167,13 @@ export const WNATIVE = {
     18,
     'wS',
     'Wrapped Sonic'
+  ),
+  [ChainId.MONAD]: new Token(
+    ChainId.MONAD,
+    '0x0000000000000000000000000000000000000000',
+    18,
+    'WMON',
+    'Wrapped MON'
   )
 }
 export const WAVAX = WNATIVE

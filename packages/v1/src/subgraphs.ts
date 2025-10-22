@@ -18,6 +18,7 @@ export const EXCHANGE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -36,6 +37,7 @@ export const MASTERCHEF_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -54,6 +56,7 @@ export const DEXCANDLES_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -71,6 +74,7 @@ export const BAR_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -89,6 +93,7 @@ export const LENDING_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -107,6 +112,7 @@ export const ROCKET_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -126,6 +132,7 @@ export const SJOE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -144,6 +151,7 @@ export const MONEY_MAKER_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -162,6 +170,7 @@ export const VEJOE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -180,6 +189,7 @@ export const BOOSTED_MASTERCHEF_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -198,6 +208,7 @@ export const NFT_CONTRACTS_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -216,6 +227,7 @@ export const JOEPEG_MARKPLACE_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }
@@ -234,6 +246,7 @@ export const FEE_COLLECTOR_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.BERACHAIN]: '',
   [ChainId.BASE]: '',
   [ChainId.MONAD_TESTNET]: '',
+  [ChainId.MONAD]: '',
   [ChainId.SOLANA]: '',
   [ChainId.SONIC]: ''
 }

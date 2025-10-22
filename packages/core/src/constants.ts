@@ -16,7 +16,8 @@ export enum ChainId {
   BASE = 8453,
   MONAD_TESTNET = 10143,
   SONIC = 146,
-  SOLANA = 1399811149
+  SOLANA = 1399811149,
+  MONAD = 143
 }
 
 export enum TradeType {
