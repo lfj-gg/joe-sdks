@@ -1,5 +1,11 @@
 # @traderjoe-xyz/sdk-core
 
+## 2.0.12
+
+### Patch Changes
+
+- 1f4ce37: add monad
+
 ## 2.0.11
 
 ### Patch Changes
