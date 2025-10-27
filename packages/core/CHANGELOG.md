@@ -1,5 +1,12 @@
 # @traderjoe-xyz/sdk-core
 
+## 2.0.13
+
+### Patch Changes
+
+- 7a40830: fix CNATIVE on monad
+- f0683b0: add WNATIVE address for monad
+
 ## 2.0.12
 
 ### Patch Changes
