@@ -1,5 +1,13 @@
 # @traderjoe-xyz/sdk-v2
 
+## 3.0.28
+
+### Patch Changes
+
+- Updated dependencies [7a40830]
+- Updated dependencies [f0683b0]
+  - @traderjoe-xyz/sdk-core@2.0.13
+
 ## 3.0.27
 
 ### Patch Changes
