@@ -1,5 +1,11 @@
 # @traderjoe-xyz/sdk-v2
 
+## 3.0.29
+
+### Patch Changes
+
+- e9fb16f: add monad addresses
+
 ## 3.0.28
 
 ### Patch Changes
