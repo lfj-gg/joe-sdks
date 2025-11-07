@@ -1,5 +1,11 @@
 # @traderjoe-xyz/sdk
 
+## 5.0.15
+
+### Patch Changes
+
+- d470bab: set v1 monad addresses
+
 ## 5.0.14
 
 ### Patch Changes
