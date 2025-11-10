@@ -1,5 +1,11 @@
 # @traderjoe-xyz/sdk-v2
 
+## 3.0.30
+
+### Patch Changes
+
+- ab8f124: add LB Factory v22 ABI
+
 ## 3.0.29
 
 ### Patch Changes
