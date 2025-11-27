@@ -1,5 +1,12 @@
 # @traderjoe-xyz/sdk
 
+## 5.0.16
+
+### Patch Changes
+
+- 00f56c8: set sjoe address for monad
+- b713a00: set JOE address for monad
+
 ## 5.0.15
 
 ### Patch Changes
